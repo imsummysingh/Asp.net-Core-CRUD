@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "JwEUQVZYHcbeCIeLQshTVOehFTnIKzLXPRYu1n+Oa4A=",
+  "Source": "CRUD",
+  "BasePath": "_content/CRUD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CRUD\\wwwroot",
+      "Source": "CRUD",
+      "ContentRoot": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution\\CRUD\\wwwroot\\",
+      "BasePath": "_content/CRUD",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution\\CRUD\\wwwroot\\StyleSheet.css",
+      "SourceId": "CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution\\CRUD\\wwwroot\\",
+      "BasePath": "_content/CRUD",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
