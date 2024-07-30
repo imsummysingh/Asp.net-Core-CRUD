@@ -7,7 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\" />
+    <Compile Remove="Controllers\PersonsController_WithoutTagHelper.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Persons\Create_WithoutTagHelper.cshtml" />
+    <Content Remove="Views\Persons\Index_WithoutTagHelper.cshtml" />
   </ItemGroup>
 
   <ItemGroup>
