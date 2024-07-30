@@ -25,3 +25,13 @@ C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution\CRUD\obj\Debug\net
 C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution\CRUD\obj\Debug\net8.0\CRUD.pdb
 C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution\CRUD\obj\Debug\net8.0\CRUD.genruntimeconfig.cache
 C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution\CRUD\obj\Debug\net8.0\ref\CRUD.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution\CRUD\bin\Debug\net8.0\Entities.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution\CRUD\bin\Debug\net8.0\ServiceContracts.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution\CRUD\bin\Debug\net8.0\Services.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution\CRUD\bin\Debug\net8.0\ServiceContracts.pdb
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution\CRUD\bin\Debug\net8.0\Services.pdb
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution\CRUD\bin\Debug\net8.0\Entities.pdb
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution\CRUD\obj\Debug\net8.0\CRUD.csproj.AssemblyReference.cache
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution\CRUD\obj\Debug\net8.0\CRUD.RazorAssemblyInfo.cache
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution\CRUD\obj\Debug\net8.0\CRUD.RazorAssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution\CRUD\obj\Debug\net8.0\CRUD.csproj.Up2Date
