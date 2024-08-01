@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1EEDF8-0123-409C-BCE3-43A5C272A9AA}|Entities\\Entities.csproj|c:\\users\\ssingh47\\source\\repos\\asp.net-core-crud\\crudsolution_v2\\entities\\personsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1EEDF8-0123-409C-BCE3-43A5C272A9AA}|Entities\\Entities.csproj|solutionrelative:entities\\personsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1EEDF8-0123-409C-BCE3-43A5C272A9AA}|Entities\\Entities.csproj|c:\\users\\ssingh47\\source\\repos\\asp.net-core-crud\\crudsolution_v2\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1EEDF8-0123-409C-BCE3-43A5C272A9AA}|Entities\\Entities.csproj|solutionrelative:entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1EEDF8-0123-409C-BCE3-43A5C272A9AA}|Entities\\Entities.csproj|c:\\users\\ssingh47\\source\\repos\\asp.net-core-crud\\crudsolution_v2\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1EEDF8-0123-409C-BCE3-43A5C272A9AA}|Entities\\Entities.csproj|solutionrelative:entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\Entities\\PersonsDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\PersonsDbContext.cs",
+              "ToolTip": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\Entities\\PersonsDbContext.cs",
+              "RelativeToolTip": "Entities\\PersonsDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:19:23.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\Entities\\Person.cs",
+              "RelativeToolTip": "Entities\\Person.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:17:08.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Entities\\Country.cs",
+              "ToolTip": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\Entities\\Country.cs",
+              "RelativeToolTip": "Entities\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:16:18.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
