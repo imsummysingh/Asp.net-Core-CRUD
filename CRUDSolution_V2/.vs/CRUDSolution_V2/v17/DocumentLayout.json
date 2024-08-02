@@ -5,30 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4DEAEC94-3BA1-4392-BF04-EB041DBE44C9}|Services\\Services.csproj|c:\\users\\ssingh47\\source\\repos\\asp.net-core-crud\\crudsolution_v2\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DEAEC94-3BA1-4392-BF04-EB041DBE44C9}|Services\\Services.csproj|solutionrelative:services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A57F1A5D-D93F-4F8A-B25D-7AE65FB9A422}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\ssingh47\\source\\repos\\asp.net-core-crud\\crudsolution_v2\\servicecontracts\\dto\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A57F1A5D-D93F-4F8A-B25D-7AE65FB9A422}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{543E5A61-9BA3-449D-9314-D7591A76B846}|CRUD\\CRUD.csproj|c:\\users\\ssingh47\\source\\repos\\asp.net-core-crud\\crudsolution_v2\\crud\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{543E5A61-9BA3-449D-9314-D7591A76B846}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{543E5A61-9BA3-449D-9314-D7591A76B846}|CRUD\\CRUD.csproj|c:\\users\\ssingh47\\source\\repos\\asp.net-core-crud\\crudsolution_v2\\crud\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{543E5A61-9BA3-449D-9314-D7591A76B846}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DEAEC94-3BA1-4392-BF04-EB041DBE44C9}|Services\\Services.csproj|c:\\users\\ssingh47\\source\\repos\\asp.net-core-crud\\crudsolution_v2\\services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DEAEC94-3BA1-4392-BF04-EB041DBE44C9}|Services\\Services.csproj|solutionrelative:services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{543E5A61-9BA3-449D-9314-D7591A76B846}|CRUD\\CRUD.csproj|c:\\users\\ssingh47\\source\\repos\\asp.net-core-crud\\crudsolution_v2\\crud\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{543E5A61-9BA3-449D-9314-D7591A76B846}|CRUD\\CRUD.csproj|solutionrelative:crud\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{543E5A61-9BA3-449D-9314-D7591A76B846}|CRUD\\CRUD.csproj|c:\\users\\ssingh47\\source\\repos\\asp.net-core-crud\\crudsolution_v2\\crud\\persons.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{543E5A61-9BA3-449D-9314-D7591A76B846}|CRUD\\CRUD.csproj|solutionrelative:crud\\persons.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,33 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonResponse.cs",
-              "DocumentMoniker": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\ServiceContracts\\DTO\\PersonResponse.cs",
-              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonResponse.cs",
-              "ToolTip": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\ServiceContracts\\DTO\\PersonResponse.cs",
-              "RelativeToolTip": "ServiceContracts\\DTO\\PersonResponse.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAawEMAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T20:16:55.014Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\CRUD\\Views\\Persons\\Index.cshtml",
-              "RelativeDocumentMoniker": "CRUD\\Views\\Persons\\Index.cshtml",
-              "ToolTip": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\CRUD\\Views\\Persons\\Index.cshtml",
-              "RelativeToolTip": "CRUD\\Views\\Persons\\Index.cshtml",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAiwGEAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-01T20:17:42.93Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
@@ -74,61 +36,9 @@
               "RelativeDocumentMoniker": "Services\\PersonService.cs",
               "ToolTip": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\Services\\PersonService.cs",
               "RelativeToolTip": "Services\\PersonService.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAowBcAAABGAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwEMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T20:16:24.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "countries.json",
-              "DocumentMoniker": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\CRUD\\countries.json",
-              "RelativeDocumentMoniker": "CRUD\\countries.json",
-              "ToolTip": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\CRUD\\countries.json",
-              "RelativeToolTip": "CRUD\\countries.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-01T15:29:31.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "persons.json",
-              "DocumentMoniker": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\CRUD\\persons.json",
-              "RelativeDocumentMoniker": "CRUD\\persons.json",
-              "ToolTip": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\CRUD\\persons.json",
-              "RelativeToolTip": "CRUD\\persons.json",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-01T15:29:27.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CountriesService.cs",
-              "DocumentMoniker": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\Services\\CountriesService.cs",
-              "RelativeDocumentMoniker": "Services\\CountriesService.cs",
-              "ToolTip": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\Services\\CountriesService.cs",
-              "RelativeToolTip": "Services\\CountriesService.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAIwC8AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T15:21:49.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PersonsController.cs",
-              "DocumentMoniker": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\CRUD\\Controllers\\PersonsController.cs",
-              "RelativeDocumentMoniker": "CRUD\\Controllers\\PersonsController.cs",
-              "ToolTip": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\CRUD\\Controllers\\PersonsController.cs",
-              "RelativeToolTip": "CRUD\\Controllers\\PersonsController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAwCYAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T15:21:32.685Z",
+              "WhenOpened": "2024-08-02T15:46:42.247Z",
               "EditorCaption": ""
             }
           ]
