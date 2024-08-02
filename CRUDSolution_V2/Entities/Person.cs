@@ -29,7 +29,9 @@ namespace Entities
         //bit
         public bool? ReceiveNewsLetters { get; set; }
 
-        //Text Identication Number
+        //Tax Identication Number
         public string? TIN { get; set; }
+
+        public Country? Country { get; set; }
     }
 }

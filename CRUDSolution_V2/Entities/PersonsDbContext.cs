@@ -50,6 +50,21 @@ namespace Entities
 
             foreach (Person person in persons)
                 modelBuilder.Entity<Person>().HasData(person);
+
+
+            //Fluent API
+            //saying that, hey model builder I want to select the entity Person class and in that model,    cont.
+            //I have to select the TIN property
+            //This helps in sticking to the business requirements
+            modelBuilder.Entity<Person>().Property(temp => temp.TIN)
+                .HasColumnName("TaxIdentificationNumber")   //column name should be TaxIdentificationNumber
+                .HasColumnType("varchar(8)")                //column type should be varchar(8)
+                .HasDefaultValue("SUM12345");
+
+            //will have unique value
+            //modelBuilder.Entity<Person>().HasIndex(temp => temp.TIN).IsUnique();
+
+            modelBuilder.Entity<Person>().HasCheckConstraint("CHK_TIN", "len([TaxIdentificationNumber])=8");
         }
 
         public List<Person> sp_GetAllPersons()
