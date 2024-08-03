@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gH8zr1M1V6CNsIgoycypHhPxt5DGr0golmc+35xC/6U=",
+  "Hash": "ZqWSjirJSJ8WYpUVyLCBhQp8izunmj+GC/zXYDXwMS0=",
   "Source": "CRUD",
   "BasePath": "_content/CRUD",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\CRUD\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "SourceId": "CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\CRUD\\wwwroot\\",
+      "BasePath": "_content/CRUD",
+      "RelativePath": "Rotativa/wkhtmltopdf.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Rotativa\\wkhtmltopdf.exe"
     },
     {
       "Identity": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\CRUD\\wwwroot\\StyleSheet.css",
