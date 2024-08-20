@@ -8,6 +8,8 @@ using Xunit.Abstractions;
 using Entities;
 using Microsoft.EntityFrameworkCore;
 using EntityFrameworkCoreMock;
+using AutoFixture;
+using FluentAssertions;
 
 
 namespace CRUDTests
@@ -17,9 +19,13 @@ namespace CRUDTests
         private readonly IPersonService _personService;
         private readonly ICountriesService _countriesService;
         private readonly ITestOutputHelper _testOutputHelper;
+        private readonly IFixture _fixture;
 
         public PersonServiceTest(ITestOutputHelper testOutputHelper)
         {
+
+            _fixture = new Fixture();
+
             //dummy implementation of DbContext
             var countriesInitialData = new List<Country>() { };
             var personsInitialData = new List<Person>() { };
@@ -50,10 +56,17 @@ namespace CRUDTests
             PersonAddRequest? personAddRequest = null;
 
             //act & assert
-            await Assert.ThrowsAsync<ArgumentNullException>(async() =>
+            //await Assert.ThrowsAsync<ArgumentNullException>(async() =>
+            //{
+            //    await _personService.AddPerson(personAddRequest);
+            //});
+
+            //fluent assertion
+            Func<Task> action = async () =>
             {
                 await _personService.AddPerson(personAddRequest);
-            });
+            };
+            await action.Should().ThrowAsync<ArgumentNullException>();
         }
 
         //when we supply null values as PersonName, it should throw ArgumentException ->email,dob etc as null
@@ -61,16 +74,21 @@ namespace CRUDTests
         public async Task AddPerson_PersonNameIsNull()
         {
             //arrange
-            PersonAddRequest? personAddRequest = new PersonAddRequest()
-            {
-                PersonName = null
-            };
+            PersonAddRequest? personAddRequest = _fixture.Build<PersonAddRequest>().With(temp => temp.PersonName, null as string).Create();
 
-            //act & assert
-            await Assert.ThrowsAsync<ArgumentException>(async() =>
+            //// assert
+            //await Assert.ThrowsAsync<ArgumentException>(async() =>
+            //{
+            //    //act
+            //    await _personService.AddPerson(personAddRequest);
+            //});
+
+            //fluent assertion
+            Func<Task> action = async () =>
             {
                 await _personService.AddPerson(personAddRequest);
-            });
+            };
+            await action.Should().ThrowAsync<ArgumentException>();
         }
 
         //when we supply proper person details, it should insert the person into person list,
@@ -79,24 +97,35 @@ namespace CRUDTests
         public async Task AddPerson_ProperPersonDetails()
         {
             //arrange
-            PersonAddRequest? personAddRequest = new PersonAddRequest()
-            {
-                PersonName = "Ranjeet",
-                Email = "ranjo@gmail.com",
-                Address = "Gurgaon",
-                CountryId = Guid.NewGuid(),
-                Gender = GenderOptions.Male,
-                DateOfBirth = DateTime.Parse("1995-01-30"),
-                ReceiveNewsLetters = true
-            };
+            //PersonAddRequest? personAddRequest = new PersonAddRequest()
+            //{
+            //    PersonName = "Ranjeet",
+            //    Email = "ranjo@gmail.com",
+            //    Address = "Gurgaon",
+            //    CountryId = Guid.NewGuid(),
+            //    Gender = GenderOptions.Male,
+            //    DateOfBirth = DateTime.Parse("1995-01-30"),
+            //    ReceiveNewsLetters = true
+            //};
+
+            //with autofixture
+            //PersonAddRequest? personAddRequest = _fixture.Create<PersonAddRequest>();
+            PersonAddRequest? personAddRequest = 
+                _fixture.Build<PersonAddRequest>()
+                .With(temp=>temp.Email, "someone@example.com")
+                .Create();
 
             //act 
             PersonResponse person_response_from_add = await _personService.AddPerson(personAddRequest);
             List<PersonResponse> person_list= await _personService.GetAllPersons();
 
             //assert
-            Assert.True(person_response_from_add.PersonId != Guid.Empty);
-            Assert.Contains(person_response_from_add, person_list);
+            //Assert.True(person_response_from_add.PersonId != Guid.Empty);
+            //Assert.Contains(person_response_from_add, person_list);
+
+            //fluent assertion
+            person_response_from_add.PersonId.Should().NotBe(Guid.Empty);
+            person_list.Should().Contain(person_response_from_add);
         }
 
         #endregion
@@ -124,7 +153,8 @@ namespace CRUDTests
         public async Task GetPersonByPersonId_WithPersonId()
         {
             //arrange
-            CountryAddRequest country_request = new CountryAddRequest() { CountryName = "Canada" };
+            //CountryAddRequest country_request = new CountryAddRequest() { CountryName = "Canada" };
+            CountryAddRequest country_request = _fixture.Create<CountryAddRequest>();
             CountryResponse country_response=await _countriesService.AddCountry(country_request);
 
             //act
