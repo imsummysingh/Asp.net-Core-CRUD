@@ -10,8 +10,8 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<ICountriesService, CountriesService>();
 builder.Services.AddScoped<IPersonService, PersonService>();
 
-//builder.Services.AddDbContext<PersonsDbContext>(options => { options.UseSqlServer(builder.Configuration["ConnectionStrings.DefaultConnection"]); });
-builder.Services.AddDbContext<PersonsDbContext>(options => { options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")); });
+//builder.Services.AddDbContext<ApplicationDbContext>(options => { options.UseSqlServer(builder.Configuration["ConnectionStrings.DefaultConnection"]); });
+builder.Services.AddDbContext<ApplicationDbContext>(options => { options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")); });
 
 var app = builder.Build();
 

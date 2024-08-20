@@ -259,3 +259,11 @@ C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUDTests\bin\D
 C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUDTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUDTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUDTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUDTests\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUDTests\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUDTests\bin\Debug\net8.0\EntityFrameworkCoreMock.Moq.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUDTests\bin\Debug\net8.0\EntityFrameworkCoreMock.Shared.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUDTests\bin\Debug\net8.0\Moq.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUDTests\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUDTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUDTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
