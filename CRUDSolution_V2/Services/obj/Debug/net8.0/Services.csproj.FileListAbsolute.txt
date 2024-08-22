@@ -34,3 +34,5 @@ C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\Services\obj\De
 C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\Services\obj\Debug\net8.0\refint\Services.dll
 C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\Services\obj\Debug\net8.0\Services.pdb
 C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\Services\bin\Debug\net8.0\RepositoryContracts.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\Services\bin\Debug\net8.0\RepositoryContracts.pdb

@@ -270,3 +270,5 @@ C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUDTests\bin\D
 C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUDTests\bin\Debug\net8.0\AutoFixture.dll
 C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUDTests\bin\Debug\net8.0\Fare.dll
 C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUDTests\bin\Debug\net8.0\FluentAssertions.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUDTests\bin\Debug\net8.0\RepositoryContracts.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUDTests\bin\Debug\net8.0\RepositoryContracts.pdb

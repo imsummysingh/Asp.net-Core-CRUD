@@ -1,0 +1,16 @@
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\RepositoryContracts\bin\Debug\net8.0\RepositoryContracts.deps.json
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\RepositoryContracts\bin\Debug\net8.0\RepositoryContracts.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\RepositoryContracts\bin\Debug\net8.0\RepositoryContracts.pdb
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\RepositoryContracts\bin\Debug\net8.0\Entities.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\RepositoryContracts\bin\Debug\net8.0\Entities.pdb
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.csproj.AssemblyReference.cache
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.sourcelink.json
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\RepositoryContracts\obj\Debug\net8.0\Reposito.28D4BA81.Up2Date
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\RepositoryContracts\obj\Debug\net8.0\refint\RepositoryContracts.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.pdb
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\RepositoryContracts\obj\Debug\net8.0\ref\RepositoryContracts.dll

@@ -181,3 +181,7 @@ C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUD\bin\Debug\
 C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUD\bin\Debug\net8.0\Rotativa.AspNetCore.dll
 C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUD\obj\Debug\net8.0\CRUD.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUD\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUD\bin\Debug\net8.0\RepositoryContracts.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUD\bin\Debug\net8.0\RepositoryContracts.pdb
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUD\bin\Debug\net8.0\Repositories.dll
+C:\Users\SSINGH47\source\repos\Asp.net-Core-CRUD\CRUDSolution_V2\CRUD\bin\Debug\net8.0\Repositories.pdb

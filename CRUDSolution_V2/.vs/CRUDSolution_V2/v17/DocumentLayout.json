@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00D27535-25DB-416E-9D87-3965FCA0EE49}|CRUDTests\\CRUDTests.csproj|c:\\users\\ssingh47\\source\\repos\\asp.net-core-crud\\crudsolution_v2\\crudtests\\personservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D27535-25DB-416E-9D87-3965FCA0EE49}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\personservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DEAEC94-3BA1-4392-BF04-EB041DBE44C9}|Services\\Services.csproj|c:\\users\\ssingh47\\source\\repos\\asp.net-core-crud\\crudsolution_v2\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DEAEC94-3BA1-4392-BF04-EB041DBE44C9}|Services\\Services.csproj|solutionrelative:services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFA4145-A6C5-436E-BD8A-BE5BB538E2EF}|Repositories\\Repositories.csproj|c:\\users\\ssingh47\\source\\repos\\asp.net-core-crud\\crudsolution_v2\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFA4145-A6C5-436E-BD8A-BE5BB538E2EF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543E5A61-9BA3-449D-9314-D7591A76B846}|CRUD\\CRUD.csproj|c:\\users\\ssingh47\\source\\repos\\asp.net-core-crud\\crudsolution_v2\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543E5A61-9BA3-449D-9314-D7591A76B846}|CRUD\\CRUD.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +39,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PersonServiceTest.cs",
-              "DocumentMoniker": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\CRUDTests\\PersonServiceTest.cs",
-              "RelativeDocumentMoniker": "CRUDTests\\PersonServiceTest.cs",
-              "ToolTip": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\CRUDTests\\PersonServiceTest.cs",
-              "RelativeToolTip": "CRUDTests\\PersonServiceTest.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDgCAAAAAAAA",
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "Services\\PersonService.cs",
+              "ToolTip": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\Services\\PersonService.cs",
+              "RelativeToolTip": "Services\\PersonService.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAkwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T15:24:12.636Z",
+              "WhenOpened": "2024-08-22T14:07:46.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\Repositories\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\Repositories\\PersonRepository.cs",
+              "RelativeToolTip": "Repositories\\PersonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:07:43.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\SSINGH47\\source\\repos\\Asp.net-Core-CRUD\\CRUDSolution_V2\\CRUD\\Program.cs",
+              "RelativeToolTip": "CRUD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:05:16.554Z",
               "EditorCaption": ""
             }
           ]
